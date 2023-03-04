@@ -1633,7 +1633,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\XE\\source\\repos\\Avalonia.Microcharts\\src\\easyCharts\\EasyCharts.csproj",
-      "projectName": "EasyCharts",
+      "projectName": "Easy4Charts",
       "projectPath": "C:\\Users\\XE\\source\\repos\\Avalonia.Microcharts\\src\\easyCharts\\EasyCharts.csproj",
       "packagesPath": "C:\\Users\\XE\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\XE\\source\\repos\\Avalonia.Microcharts\\src\\easyCharts\\obj\\",

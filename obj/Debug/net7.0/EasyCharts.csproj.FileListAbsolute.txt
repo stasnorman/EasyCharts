@@ -1,0 +1,12 @@
+C:\Users\XE\source\repos\Avalonia.Microcharts\src\easyCharts\bin\Debug\net7.0\EasyCharts.deps.json
+C:\Users\XE\source\repos\Avalonia.Microcharts\src\easyCharts\bin\Debug\net7.0\EasyCharts.dll
+C:\Users\XE\source\repos\Avalonia.Microcharts\src\easyCharts\bin\Debug\net7.0\EasyCharts.pdb
+C:\Users\XE\source\repos\Avalonia.Microcharts\src\easyCharts\obj\Debug\net7.0\EasyCharts.csproj.AssemblyReference.cache
+C:\Users\XE\source\repos\Avalonia.Microcharts\src\easyCharts\obj\Debug\net7.0\EasyCharts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XE\source\repos\Avalonia.Microcharts\src\easyCharts\obj\Debug\net7.0\EasyCharts.AssemblyInfoInputs.cache
+C:\Users\XE\source\repos\Avalonia.Microcharts\src\easyCharts\obj\Debug\net7.0\EasyCharts.AssemblyInfo.cs
+C:\Users\XE\source\repos\Avalonia.Microcharts\src\easyCharts\obj\Debug\net7.0\EasyCharts.csproj.CoreCompileInputs.cache
+C:\Users\XE\source\repos\Avalonia.Microcharts\src\easyCharts\obj\Debug\net7.0\EasyCharts.dll
+C:\Users\XE\source\repos\Avalonia.Microcharts\src\easyCharts\obj\Debug\net7.0\refint\EasyCharts.dll
+C:\Users\XE\source\repos\Avalonia.Microcharts\src\easyCharts\obj\Debug\net7.0\EasyCharts.pdb
+C:\Users\XE\source\repos\Avalonia.Microcharts\src\easyCharts\obj\Debug\net7.0\ref\EasyCharts.dll

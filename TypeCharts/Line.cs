@@ -4,7 +4,7 @@ using SkiaSharp;
 
 namespace EasyCharts
 {
-    public class Line : Point
+    public class Line : PCharts
     {
         public Line()
         {

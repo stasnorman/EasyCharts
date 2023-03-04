@@ -6,7 +6,7 @@ using SkiaSharp;
 
 namespace EasyCharts
 {
-    public class Point : SetChart
+    public class PCharts : SetChart
     {
         public float PointSize { get; set; } = 14;
 
