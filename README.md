@@ -9,10 +9,6 @@
 Чрезвычайно простая библиотека построения диаграмм для широкого спектра платформ с общим кодом и рендерингом для всех них.
 
 ### Техническая поддержка платформ
-- Xamarin;
-- Xamarin.Forms;
-- Xamarin.iOS;
-- ASP.Net Core Web Application;
 - Avalonia .NET Core App;
 - Avalonia .NET Core MVVM App;
 - Avalonia Cross Platform Application; 
