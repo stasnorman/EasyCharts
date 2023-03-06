@@ -35,7 +35,7 @@ Package Manager:
 PM> NuGet\Install-Package Easy4Charts -Version 1.0.3
 ```
 
-## Поддержка Framework
+## Техническая поддержка
 - net7.0-android; 
 - net7.0-ios;
 - net7.0-maccatalyst; 
